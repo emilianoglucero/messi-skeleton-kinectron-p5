@@ -118,7 +118,9 @@ function rotationsChecked() {
 }
 
 function draw() {
-  let header = createDiv("VAMOS ARGENTINA Q VAMOS A GANAR");
+  let header = createDiv(
+    "VAMOS ARGENTINA Q TENEMOS Q GANAR LAREYQTP 😄🤪🤐😅🥺😰😡"
+  );
   header.position(10, 0);
   header.style("z-index", 10);
   header.style("color", "red");
