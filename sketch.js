@@ -119,7 +119,7 @@ function rotationsChecked() {
 
 function draw() {
   let header = createDiv(
-    "VAMOS ARGENTINA Q TENEMOS Q GANAR LAREYQTP 😄🤪🤐😅🥺😰😡"
+    "¡VAMOS ARGENTINA! ¡ARRIBA PULGA!  !!Q TENEMOS Q GANAR LAREYQTP!! 😄🤪🤐😅🥺😰😡"
   );
   header.position(10, 0);
   header.style("z-index", 10);
